@@ -5,3 +5,8 @@
 * {
   font-family: "Roboto", sans-serif;
 }
+
+.verified{
+  position: absolute;
+  margin: 5px;
+}

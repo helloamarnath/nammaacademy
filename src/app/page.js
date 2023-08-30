@@ -12,6 +12,21 @@ export default function Home() {
         <div class="flex flex-col">
           <div class="font-bold text-xl text-center hover:cursor-pointer">
             NammaAcademy
+            <span className="verified">
+              {" "}
+              <svg
+                width="20"
+                height="20"
+                viewBox="0 0 20 20"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="m19.167 10-2.034-2.325.284-3.075-3.009-.683-1.575-2.667L10 2.467 7.167 1.25 5.592 3.908l-3.009.675.284 3.084L.833 10l2.034 2.325-.284 3.083 3.009.684 1.575 2.658L10 17.525l2.833 1.217 1.575-2.659 3.009-.683-.284-3.075L19.167 10zM8.408 13.933l-3.166-3.175 1.233-1.233 1.933 1.942 4.875-4.892 1.234 1.233-6.109 6.125z"
+                  fill="#1890FF"
+                />
+              </svg>
+            </span>
           </div>
           <p class="text-sm text-center">Embrace the joy of learning</p>
         </div>
