@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div class="w-screen h-screen rounded-sm overflow-hidden shadow-lg bg-mirage-500">
